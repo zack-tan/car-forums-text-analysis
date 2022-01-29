@@ -1,0 +1,10 @@
+# Ignore visual studio code files
+.vscode/
+
+# OS X formatting files to ignore
+.DS_Store
+
+# Ignore original datasets
+data.csv
+data_clean.csv
+models.csv
