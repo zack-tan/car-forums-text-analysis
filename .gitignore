@@ -6,5 +6,7 @@
 
 # Ignore original datasets
 data.csv
-data_clean.csv
 models.csv
+
+# jupyter notebook checkpoints
+.ipynb_checkpoints/
